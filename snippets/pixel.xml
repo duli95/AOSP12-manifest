@@ -14,7 +14,9 @@
   <remote name="pixel-gitlab"
           fetch="https://github.com/duli95"
           revision="twelve" />
-
+  <remote name="pixel-private"
+          fetch="https://github.com/duli95"
+          revision="twelve" />
   <remote name="pixel-devices"
           fetch="https://github.com/zebraoffersp-Devices"
           revision="twelve" />
