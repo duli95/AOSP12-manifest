@@ -113,10 +113,10 @@
   <project path="packages/apps/CarrierConfig" name="packages_apps_CarrierConfig" remote="pixel" />
   <project path="packages/apps/Nfc" name="packages_apps_Nfc" remote="pixel" />
   <project path="packages/apps/PhoneCommon" name="packages_apps_PhoneCommon" remote="pixel" />
-  <project path="packages/apps/Settings" name="packages_apps_Settings" remote="pixel-plus" />
+  <project path="packages/apps/Settings" name="AOSP12_packages_apps_Settings" remote="pixel-private" />
   <project path="packages/apps/Stk" name="packages_apps_Stk" remote="pixel" />
   <project path="packages/apps/Traceur" name="packages_apps_Traceur" remote="pixel" />
-  <project path="packages/modules/adb" name="packages_modules_adb" remote="pixel" />
+  <project path="packages/modules/adb" name="AOSP12_packages_modules_adb" remote="pixel-private" />
   <project path="packages/modules/Connectivity" name="packages_modules_Connectivity" remote="pixel-plus" />
   <project path="packages/modules/DnsResolver" name="packages_modules_DnsResolver" remote="pixel" />
   <project path="packages/modules/NetworkStack" name="packages_modules_NetworkStack" remote="pixel" />
@@ -141,7 +141,7 @@
   <!-- System Repos -->
   <project path="system/bpf" name="system_bpf" remote="pixel" />
   <project path="system/bt" name="system_bt" remote="pixel" />
-  <project path="system/core" name="system_core" remote="pixel" />
+  <project path="system/core" name="AOSP12_system_core" remote="pixel-private" />
   <project path="system/extras" name="system_extras" remote="pixel" />
   <project path="system/incremental_delivery" name="system_incremental_delivery" remote="pixel" />
   <project path="system/libhidl" name="system_libhidl" remote="pixel" />
