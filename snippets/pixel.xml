@@ -12,7 +12,7 @@
           review="gerrit.zebraoffersp.org" />
 
   <remote name="pixel-gitlab"
-          fetch="https://gitlab.com/idolvn92"
+          fetch="https://github.com/duli95"
           revision="twelve" />
 
   <remote name="pixel-devices"
