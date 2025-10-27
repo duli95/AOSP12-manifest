@@ -116,7 +116,7 @@
   <project path="packages/apps/CarrierConfig" name="packages_apps_CarrierConfig" remote="pixel" />
   <project path="packages/apps/Nfc" name="packages_apps_Nfc" remote="pixel" />
   <project path="packages/apps/PhoneCommon" name="packages_apps_PhoneCommon" remote="pixel" />
-  <project path="packages/apps/Settings" name="AOSP12_packages_apps_Settings" remote="pixel-private" />
+  <project path="packages/apps/Settings" name="AOSP12_packages_apps_Settings" remote="pixel-private1" />
   <project path="packages/apps/Stk" name="packages_apps_Stk" remote="pixel" />
   <project path="packages/apps/Traceur" name="packages_apps_Traceur" remote="pixel" />
   <project path="packages/modules/adb" name="AOSP12_packages_modules_adb" remote="pixel-private" />
